@@ -4,7 +4,9 @@ This is a fun memory game that requires you to remember a sequence of flashing l
 
 🔴🔵🟢🟡 To play the game: 🔴🔵🟢🟡
 
-Press the "Start" button to begin.
+Go with this link: https://aaravshukla15.github.io/Simon-Game/
+
+Then press the "Start" button to begin.
 Simon will play a sequence of flashing lights and sounds. Remember the sequence!
 After the sequence ends, repeat the sequence by clicking the buttons in the same order.
 If you get the sequence correct, Simon will add another step to the sequence.
