@@ -74,7 +74,7 @@ function checkAnswer(currentLevel){
     }
 
 function playSound(name){
-    var audio = new Audio("Sounds/" + name + ".mp3");
+    var audio = new Audio("Simon-Game/" + "Sounds/" + name + ".mp3");
     audio.play();
 }
 
